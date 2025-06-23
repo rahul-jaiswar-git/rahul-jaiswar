@@ -49,7 +49,7 @@ export default function Portfolio() {
       name: "CodeSpeedy Technologies",
       role: "Full Stack Developer",
       period: "Feb. 2025 – Mar. 2025",
-      logo: "/placeholder.svg?height=40&width=40",
+      logo: "/CodeSpeedy-Logo.png",
       description: [
         "Designed and developed 6+ responsive websites and web applications, boosting client engagement by 40%.",
         "Created user-friendly UI/UX designs that enhanced user satisfaction by 25%.",
@@ -60,7 +60,7 @@ export default function Portfolio() {
       name: "Forage (Virtual Internship Experience)",
       role: "Virtual Intern",
       period: "2024",
-      logo: "/placeholder.svg?height=40&width=40",
+      logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnBugTjipDNyNUOOvjcmxx_qABgDtI0pw5Qw&s",
       description: [],
       certifications: [
         {
