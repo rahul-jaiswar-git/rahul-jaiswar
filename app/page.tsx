@@ -888,66 +888,66 @@ export default function Portfolio() {
           </div>
 
           {/* Contact Cards Grid - No flickering animations */}
-          <div className="grid md:grid-cols-2 gap-6 max-w-3xl mx-auto">
+          <div className="grid md:grid-cols-2 gap-4 sm:gap-6 max-w-3xl mx-auto">
             {/* Email Card */}
-            <div className="bg-slate-800/50 border border-slate-700 rounded-lg p-6 hover:bg-slate-800/70 transition-all duration-500 group hover:scale-105 active:scale-95 hover:border-purple-400/50">
-              <div className="flex items-center space-x-4">
+            <div className="bg-slate-800/50 border border-slate-700 rounded-lg p-4 sm:p-6 hover:bg-slate-800/70 transition-all duration-500 group hover:scale-105 active:scale-95 hover:border-purple-400/50">
+              <div className="flex items-center space-x-3 sm:space-x-4">
                 <a
                   href="mailto:rahuljaiswarofficial@gmail.com"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="w-12 h-12 bg-purple-500/10 rounded-lg flex items-center justify-center group-hover:bg-purple-500/20 transition-colors duration-300 hover:bg-purple-500/30"
+                  className="w-10 h-10 sm:w-12 sm:h-12 bg-purple-500/10 rounded-lg flex items-center justify-center group-hover:bg-purple-500/20 transition-colors duration-300 hover:bg-purple-500/30"
                 >
-                  <Mail className="w-6 h-6 text-purple-400" />
+                  <Mail className="w-5 h-5 sm:w-6 sm:h-6 text-purple-400" />
                 </a>
                 <div className="text-left">
-                  <h4 className="text-white font-semibold text-lg mb-1">Email</h4>
-                  <p className="text-slate-400">rahuljaiswarofficial@gmail.com</p>
+                  <h4 className="text-white font-semibold text-base sm:text-lg mb-1">Email</h4>
+                  <p className="text-slate-400 text-sm sm:text-base">rahuljaiswarofficial@gmail.com</p>
                 </div>
               </div>
             </div>
 
             {/* GitHub Card */}
-            <div className="bg-slate-800/50 border border-slate-700 rounded-lg p-6 hover:bg-slate-800/70 transition-all duration-500 group hover:scale-105 active:scale-95 hover:border-purple-400/50">
-              <div className="flex items-center space-x-4">
+            <div className="bg-slate-800/50 border border-slate-700 rounded-lg p-4 sm:p-6 hover:bg-slate-800/70 transition-all duration-500 group hover:scale-105 active:scale-95 hover:border-purple-400/50">
+              <div className="flex items-center space-x-3 sm:space-x-4">
                 <a
                   href="https://github.com/rahul-jaiswar-git"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="w-12 h-12 bg-purple-500/10 rounded-lg flex items-center justify-center group-hover:bg-purple-500/20 transition-colors duration-300 hover:bg-purple-500/30"
+                  className="w-10 h-10 sm:w-12 sm:h-12 bg-purple-500/10 rounded-lg flex items-center justify-center group-hover:bg-purple-500/20 transition-colors duration-300 hover:bg-purple-500/30"
                 >
-                  <Github className="w-6 h-6 text-purple-400" />
+                  <Github className="w-5 h-5 sm:w-6 sm:h-6 text-purple-400" />
                 </a>
                 <div className="text-left">
-                  <h4 className="text-white font-semibold text-lg mb-1">GitHub</h4>
-                  <p className="text-slate-400">github.com/rahul-jaiswar-git</p>
+                  <h4 className="text-white font-semibold text-base sm:text-lg mb-1">GitHub</h4>
+                  <p className="text-slate-400 text-sm sm:text-base">github.com/rahul-jaiswar-git</p>
                 </div>
               </div>
             </div>
 
             {/* LinkedIn Card */}
-            <div className="bg-slate-800/50 border border-slate-700 rounded-lg p-6 hover:bg-slate-800/70 transition-all duration-500 group hover:scale-105 active:scale-95 hover:border-purple-400/50">
-              <div className="flex items-center space-x-4">
+            <div className="bg-slate-800/50 border border-slate-700 rounded-lg p-4 sm:p-6 hover:bg-slate-800/70 transition-all duration-500 group hover:scale-105 active:scale-95 hover:border-purple-400/50">
+              <div className="flex items-center space-x-3 sm:space-x-4">
                 <a
                   href="https://www.linkedin.com/in/rahul-jaiswar/"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="w-12 h-12 bg-purple-500/10 rounded-lg flex items-center justify-center group-hover:bg-purple-500/20 transition-colors duration-300 hover:bg-purple-500/30"
+                  className="w-10 h-10 sm:w-12 sm:h-12 bg-purple-500/10 rounded-lg flex items-center justify-center group-hover:bg-purple-500/20 transition-colors duration-300 hover:bg-purple-500/30"
                 >
-                  <Linkedin className="w-6 h-6 text-purple-400" />
+                  <Linkedin className="w-5 h-5 sm:w-6 sm:h-6 text-purple-400" />
                 </a>
                 <div className="text-left">
-                  <h4 className="text-white font-semibold text-lg mb-1">LinkedIn</h4>
-                  <p className="text-slate-400">linkedin.com/in/rahul-jaiswar</p>
+                  <h4 className="text-white font-semibold text-base sm:text-lg mb-1">LinkedIn</h4>
+                  <p className="text-slate-400 text-sm sm:text-base">linkedin.com/in/rahul-jaiswar</p>
                 </div>
               </div>
             </div>
 
             {/* Location Card */}
-            <div className="bg-slate-800/50 border border-slate-700 rounded-lg p-6 hover:bg-slate-800/70 transition-all duration-500 group hover:scale-105 active:scale-95 hover:border-purple-400/50">
-              <div className="flex items-center space-x-4">
-                <div className="w-12 h-12 bg-purple-500/10 rounded-lg flex items-center justify-center group-hover:bg-purple-500/20 transition-colors duration-300">
-                  <svg className="w-6 h-6 text-purple-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <div className="bg-slate-800/50 border border-slate-700 rounded-lg p-4 sm:p-6 hover:bg-slate-800/70 transition-all duration-500 group hover:scale-105 active:scale-95 hover:border-purple-400/50">
+              <div className="flex items-center space-x-3 sm:space-x-4">
+                <div className="w-10 h-10 sm:w-12 sm:h-12 bg-purple-500/10 rounded-lg flex items-center justify-center group-hover:bg-purple-500/20 transition-colors duration-300">
+                  <svg className="w-5 h-5 sm:w-6 sm:h-6 text-purple-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path
                       strokeLinecap="round"
                       strokeLinejoin="round"
@@ -963,8 +963,8 @@ export default function Portfolio() {
                   </svg>
                 </div>
                 <div className="text-left">
-                  <h4 className="text-white font-semibold text-lg mb-1">Location</h4>
-                  <p className="text-slate-400">Mumbai, India</p>
+                  <h4 className="text-white font-semibold text-base sm:text-lg mb-1">Location</h4>
+                  <p className="text-slate-400 text-sm sm:text-base">Mumbai, India</p>
                 </div>
               </div>
             </div>
