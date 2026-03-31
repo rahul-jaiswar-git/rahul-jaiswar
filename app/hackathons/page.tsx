@@ -18,7 +18,7 @@ export default function HackathonsPage() {
       institute: "ACE Community",
       position: "Finalist",
       date: "2024",
-      image: "/placeholder.svg",
+      image: "https://images.pexels.com/photos/7374/startup-photos.jpg?auto=compress&cs=tinysrgb&w=600",
       demo: "https://drive.google.com/file/d/1XbE66EfEZszjmXMn_9O1JNXIActUOyND/view?usp=drive_link",
       description: "Ace Hacks 2024 brought together creative minds to build impactful tech solutions. Participants collaborated on real-world challenges and showcased their innovation in a vibrant community."
     },
@@ -27,7 +27,7 @@ export default function HackathonsPage() {
       institute: "DevSoc",
       position: "4th Rank",
       date: "2024",
-      image: "/placeholder.svg",
+      image: "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg?auto=compress&cs=tinysrgb&w=600",
       demo: "https://drive.google.com/file/d/1D3RKWBiKknuog3SmpQDlYNOdZHUW_7e6/view?usp=drive_link",
       description: "DevFest 2.0 is a week-long online fest by DevSoc, featuring hackathons, tech talks, and workshops. Teams solve real-world problems and learn from industry leaders."
     },
@@ -36,7 +36,7 @@ export default function HackathonsPage() {
       institute: "Army Institute of Technology (AIT), Pune",
       position: "Participant",
       date: "2024",
-      image: "/placeholder.svg",
+      image: "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&w=600",
       demo: "https://drive.google.com/file/d/192RCaWFQDh3TfxzohmEta7nQUKSpQM-F/view?usp=drive_link",
       description: "Ethon is a student hackathon at AIT Pune, focusing on innovative tech solutions. It provides a platform for students to compete and showcase their skills."
     },
@@ -45,7 +45,7 @@ export default function HackathonsPage() {
       institute: "IETE-ISF, D. J. Sanghvi College of Engineering",
       position: "Participant",
       date: "2024",
-      image: "/placeholder.svg",
+      image: "https://images.pexels.com/photos/3912981/pexels-photo-3912981.jpeg?auto=compress&cs=tinysrgb&w=600",
       demo: "https://drive.google.com/file/d/1C0T1MTDfxFBaYFOV0LGQRBLQwQcTkF8P/view?usp=drive_link",
       description: "Unplugged 2.0 is a 24-hour hardware hackathon for students. It encourages hands-on building and innovation to solve real-world problems."
     },
@@ -54,7 +54,7 @@ export default function HackathonsPage() {
       institute: "Vasavi College of Engineering (VCE), Hyderabad",
       position: "Participant",
       date: "2024",
-      image: "/placeholder.svg",
+      image: "https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg?auto=compress&cs=tinysrgb&w=600",
       demo: "https://drive.google.com/file/d/1xpKNWbIfLwDnE3osRnSECAknTU78uweX/view?usp=drive_link",
       description: "Tech Savishkaar 3.0 is a platform for students to innovate and present tech solutions. It features competitive events and networking opportunities."
     },
@@ -63,7 +63,7 @@ export default function HackathonsPage() {
       institute: "Theem College of Engineering, Boisar",
       position: "Participant",
       date: "2024",
-      image: "/placeholder.svg",
+      image: "https://images.pexels.com/photos/1714208/pexels-photo-1714208.jpeg?auto=compress&cs=tinysrgb&w=600",
       demo: "https://drive.google.com/file/d/1GTH50uoXvSAUOhSVzV970fUB1JBhM4RY/view?usp=drive_link",
       description: "INNOVATHON'24 is an intercollege hackathon for creative problem-solving. Students collaborate on IoT-based projects and compete for prizes."
     },
@@ -72,7 +72,7 @@ export default function HackathonsPage() {
       institute: "Theem College of Engineering, Boisar",
       position: "Participant",
       date: "2024",
-      image: "/placeholder.svg",
+      image: "https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=600",
       demo: "https://drive.google.com/file/d/15aMdM5h_LJqMefjEPBF5xSJhJZNHRLqQ/view?usp=drive_link",
       description: "INNOVATHON'24 Open Source Model encourages students to build open-source solutions. The event fosters teamwork and technical creativity."
     },
@@ -81,7 +81,7 @@ export default function HackathonsPage() {
       institute: "N/A",
       position: "Participant",
       date: "2025",
-      image: "/placeholder.svg",
+      image: "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=600",
       demo: "https://drive.google.com/file/d/1wcCPnFxlXEGVqOK33d5ZnaS3h8N6CRlB/view?usp=drive_link",
       description: "A national competition where participants analyze and present solutions to case studies on nation-building."
     },
@@ -90,7 +90,7 @@ export default function HackathonsPage() {
       institute: "N/A",
       position: "Participant",
       date: "2025",
-      image: "/placeholder.svg",
+      image: "https://images.pexels.com/photos/163016/crash-test-collision-60-km-h-163016.jpeg?auto=compress&cs=tinysrgb&w=600",
       demo: "https://drive.google.com/file/d/1RuggaNSYfV--MDFo6o2A3IOvkCgu0EF_/view?usp=drive_link",
       description: "A hackathon focused on road safety, encouraging innovative solutions to improve transportation and save lives."
     },
@@ -99,7 +99,7 @@ export default function HackathonsPage() {
       institute: "IIT Delhi",
       position: "Participant",
       date: "2025",
-      image: "/placeholder.svg",
+      image: "https://images.pexels.com/photos/3184357/pexels-photo-3184357.jpeg?auto=compress&cs=tinysrgb&w=600",
       demo: "https://drive.google.com/open?id=1t5rtKQP8IiVzsq9Qe4Gf_06Brq0Yghpm&usp=drive_copy",
       description: "A business and entrepreneurship challenge at IIT Delhi, testing leadership and problem-solving skills in a competitive setting."
     },
