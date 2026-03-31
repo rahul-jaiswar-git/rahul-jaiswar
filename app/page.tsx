@@ -94,7 +94,7 @@ export default function Portfolio() {
       position: "Finalist",
       description: "Ace Hacks 2024 brought together creative minds to build impactful tech solutions. Participants collaborated on real-world challenges and showcased their innovation in a vibrant community.",
       date: "2024",
-      image: "https://picsum.photos/seed/acehacks/600/300",
+      image: "https://images.pexels.com/photos/7374/startup-photos.jpg?auto=compress&cs=tinysrgb&w=600",
       certificate: "https://drive.google.com/file/d/1XbE66EfEZszjmXMn_9O1JNXIActUOyND/view?usp=drive_link"
     },
     {
@@ -103,7 +103,7 @@ export default function Portfolio() {
       position: "4th Rank",
       description: "DevFest 2.0 is a week-long online fest by DevSoc, featuring hackathons, tech talks, and workshops. Teams solve real-world problems and learn from industry leaders.",
       date: "2024",
-      image: "https://picsum.photos/seed/devfest/600/300",
+      image: "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg?auto=compress&cs=tinysrgb&w=600",
       certificate: "https://drive.google.com/file/d/1D3RKWBiKknuog3SmpQDlYNOdZHUW_7e6/view?usp=drive_link"
     },
     {
@@ -112,7 +112,7 @@ export default function Portfolio() {
       position: "Participant",
       description: "Ethon is a student hackathon at AIT Pune, focusing on innovative tech solutions. It provides a platform for students to compete and showcase their skills.",
       date: "2024",
-      image: "https://picsum.photos/seed/ethon/600/300",
+      image: "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&w=600",
       certificate: "https://drive.google.com/file/d/192RCaWFQDh3TfxzohmEta7nQUKSpQM-F/view?usp=drive_link"
     },
     {
@@ -121,7 +121,7 @@ export default function Portfolio() {
       position: "Participant",
       description: "Unplugged 2.0 is a 24-hour hardware hackathon for students. It encourages hands-on building and innovation to solve real-world problems.",
       date: "2024",
-      image: "https://picsum.photos/seed/unplugged/600/300",
+      image: "https://images.pexels.com/photos/3912981/pexels-photo-3912981.jpeg?auto=compress&cs=tinysrgb&w=600",
       certificate: "https://drive.google.com/file/d/1C0T1MTDfxFBaYFOV0LGQRBLQwQcTkF8P/view?usp=drive_link"
     },
   ]
